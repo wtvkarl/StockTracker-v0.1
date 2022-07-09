@@ -1,0 +1,17 @@
+Apple (AAPL) has the following price history information. 
+Looking back at <b>AAPL historical stock prices</b> for the last five trading days, 
+
+on June 13, 2022, AAPL opened at $132.87, traded as high as $135.20 and as low as $131.44, 
+and closed at $131.88. Trading volume was a total of 122.21M shares.  
+
+On June 14, 2022, AAPL opened at $133.13, traded as high as $133.89 and as low as $131.48, 
+and closed at $132.76.  Trading volume was a total of 84.78M shares.  
+
+On June 15, 2022, AAPL opened at $134.29, traded as high as $137.34 and as low as $132.16, 
+and closed at $135.43.  Trading volume was a total of 91.53M shares. 
+
+On June 16, 2022, AAPL opened at $132.08, traded as high as $132.39 and as low as $129.04,
+and closed at $130.06.  Trading volume was a total of 108.12M shares.  
+
+On June 17, 2022, AAPL opened at $130.07, traded as high as $133.08 and as low as $129.81, 
+and closed at $131.56.  Trading volume was a total of 134.12M shares.
